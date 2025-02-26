@@ -11,6 +11,7 @@ To get started, clone this repository and run the following commands:
 ```bash
 npm install
 ```
+
 This will install the necessary dependencies for the project.
 
 ## Development
@@ -19,6 +20,12 @@ It is recommended to use the VSCode Live Server extension to run the project
 locally. This will allow you to see changes in real-time as you make them. There
 is no need to run a build process or refresh the page manually. Additionally,
 you do not need to setup a local server to run the project.
+
+## Running The Site
+
+To run the site, you will need to run Live Preview: Start Server. To do this on VS Code, you
+can press ctrl + shift + p, then you should see the command listed. Once you click it, you
+can see the page either in the IDE or you can show it in the browser.
 
 ## Testing
 
